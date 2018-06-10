@@ -1,5 +1,5 @@
 var React = require('react/addons');
-var action = require('./../actions/GroceryItemActionCreator.jsx')
+var action = require('./../actions/GroceryItemActionCreator.jsx');
 
 module.exports = React.createClass({
     togglePurchaased:  function(e) {
