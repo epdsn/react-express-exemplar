@@ -1,0 +1,34 @@
+{
+  "name": "react-express-exemplar",
+  "version": "1.0.0",
+  "description": "React Express Exemplar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epdsn/react-express-exemplar.git"
+  },
+  "author": "Eric Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epdsn/react-express-exemplar/issues"
+  },
+  "homepage": "https://github.com/epdsn/react-express-exemplar#readme",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "browser-sync": "^2.7.2",
+    "browserify": "^10.2.1",
+    "ejs": "^2.3.1",
+    "express": "^4.16.3",
+    "guid": "0.0.12",
+    "gulp": "^3.8.11",
+    "gulp-live-server": "0.0.14",
+    "npm": "^6.1.0",
+    "react": "^0.13.3",
+    "react-tools": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

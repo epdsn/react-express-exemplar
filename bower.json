@@ -1,0 +1,21 @@
+{
+  "name": "react-express-exemplar",
+  "description": "React Express Exemplar",
+  "main": "index.js",
+  "authors": [
+    "Eric Perez"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/epdsn/react-express-exemplar.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^16.1.0",
+    "skeleton": "^2.0.4"
+  }
+}
