@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/epdsn/react-express-exemplar#readme",
   "dependencies": {
+    "babel": "^5.5.6",
     "body-parser": "^1.12.4",
     "browser-sync": "^2.7.2",
     "browserify": "^10.2.1",
@@ -26,6 +27,7 @@
     "gulp": "^3.8.11",
     "gulp-live-server": "0.0.14",
     "jquery": "^2.1.4",
+    "mongoose": "^5.1.4",
     "npm": "^6.1.0",
     "react": "^0.13.3",
     "react-tools": "^0.13.3",

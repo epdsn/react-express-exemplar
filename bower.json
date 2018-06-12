@@ -16,6 +16,7 @@
   ],
   "dependencies": {
     "react": "^16.1.0",
-    "skeleton": "^2.0.4"
+    "skeleton": "^2.0.4",
+    "mongoose": "^5.1.4"
   }
 }
